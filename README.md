@@ -14,5 +14,11 @@ This is a real-time vehicle detection and alert system built with Flask, OpenCV,
 1) Ensure coco.txt and b.mp4 are in the project directory.
 
 2) Start the Flask server:
-   "' python app.py
-   "'
+   ```
+    python app.py
+   ```
+3) Start the front-end
+   
+4) open browser http://localhost:3000/
+
+

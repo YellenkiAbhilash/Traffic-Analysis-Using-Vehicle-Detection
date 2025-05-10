@@ -1,4 +1,4 @@
-## 🚗 Vehicle Detection & Traffic Alert System
+## 🚗 Traffic-Analysis-Using-Vehicle-Detection
 # Overview
 This is a real-time vehicle detection and alert system built with Flask, OpenCV, and YOLOv8. The system captures video from two regions (e.g., Region A via webcam and Region B via video file), performs object detection to count vehicles, and displays a live stream via a web interface. It includes a simple vehicle tracking module and integrates with PHP scripts for emergency and traffic alerts.
 

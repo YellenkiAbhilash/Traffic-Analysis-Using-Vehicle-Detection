@@ -22,3 +22,6 @@ This is a real-time vehicle detection and alert system built with Flask, OpenCV,
 4) open browser http://localhost:3000/
 
 
+## 👨‍💻 Author
+
+Developed by **Abhilash**
